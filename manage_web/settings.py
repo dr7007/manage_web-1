@@ -46,7 +46,7 @@ AUTHENTICATION_BACKENDS = (
 
 INSTALLED_APPS = [
     'user',
-    'model',
+    #'model',
 
     'django.contrib.admin',
     'django.contrib.auth',
